@@ -8,7 +8,7 @@ Get to know how to write your first tutorial by running your first https://kille
 
 An overview of the commands available for tutorial specification out of the box can be found in the https://github.com/devonfw-tutorials/tutorials/wiki/Functions[function reference].
 
-You can view compiled pull requests on our https://katacoda.com/devonfw-dev[development Katacoda space] (not up to date).
+You can view compiled pull requests on our https://katacoda.com/devonfw-dev[development Katacoda space] (not yet on killercoda).
 
 == Adapting the Tutorial Generation Process 
 
